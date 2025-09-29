@@ -1,0 +1,9 @@
+body{
+    background:
+      radial-gradient(100% 100% at 100% 100%, #0000 46%,#d5d5d5 47% 53%,#0000 54%) 43px 43px,
+      radial-gradient(100% 100% at 0 0, #0000 46%,#d5d5d5 47% 53%,#0000 54%) 43px 43px,
+      radial-gradient(100% 100%, #0000 22%, #d5d5d5 23% 29%, #0000 30% 34%, #d5d5d5 35% 41%, #0000 42%)
+      #eaeaea;
+    background-size: 86px 86px;
+
+}
