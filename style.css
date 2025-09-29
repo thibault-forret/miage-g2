@@ -1,4 +1,3 @@
-
 * {
     margin: 0;
     padding: 0;
@@ -12,6 +11,13 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
+
+    background:
+      radial-gradient(100% 100% at 100% 100%, #0000 46%,#d5d5d5 47% 53%,#0000 54%) 43px 43px,
+      radial-gradient(100% 100% at 0 0, #0000 46%,#d5d5d5 47% 53%,#0000 54%) 43px 43px,
+      radial-gradient(100% 100%, #0000 22%, #d5d5d5 23% 29%, #0000 30% 34%, #d5d5d5 35% 41%, #0000 42%)
+      #eaeaea;
+    background-size: 86px 86px;
 }
 
 header {
@@ -320,3 +326,4 @@ main {
 #noa {
 background-image: linear-gradient(0deg, #64b5f6 0%, #1976d2 40%, #fff 100%);
 }
+>>>>>>> 73cbad7ad1ac49aa48c93afc633f9e07fdb5cc6b
