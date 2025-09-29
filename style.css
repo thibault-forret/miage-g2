@@ -313,6 +313,11 @@ main {
     background-image: linear-gradient(0deg, #81c784 0%, #388e3c 40%, #fff 100%);
 }
 
+#quentin:hover{
+    cursor: pointer;
+}
+
+
 #hugo {
     background-image: linear-gradient(0deg, #90a4ae 0%, #455a64 40%, #fff 100%);
 }
